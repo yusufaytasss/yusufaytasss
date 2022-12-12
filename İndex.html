@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Web Geliştirme Grubu</title>
+    <link rel="icon" type="images/icon" href="favicon.ico">
+</head>
+
+<body>
+    <!-- BAŞLIK ETİKETLERİ -->
+
+    <h1>Hello World</h1>
+    <h2>Hello World</h2>
+    <h3>Hello World</h3>
+    <h4>Hello World</h4>
+    <h5>Hello World</h5>
+    <h6>Hello World</h6>
+    <h1 style="font-size: 60px">Hello World</h1>
+
+    <!-- PARAGRAF ETİKETLERİ -->
+
+    <!-- p ve pre arasındaki temel fark pre de yazdığınız metinlerin boşluklarına uygun şekilde çıktı vermesi. p de ise hepsini yan yana yazması(değişim yapılmadığı sürece) -->
+    <p>
+        Lorem ipsum dolor sit amet,
+        consectetur adipisicing elit.
+
+        Aspernatur nihil dolorem nostrum tenetur placeat labore fugiat natus animi culpa,
+        error.
+    </p>
+
+    <pre>
+    Lorem ipsum dolor.
+    
+    Lorem ipsum dolor sit.
+    
+    Lorem ipsum dolor sit amet.
+    </pre>
+
+    <!-- STİLLER -->
+    <!-- 
+    background-color => Arka Plan Rengini Düzenler.
+    font-family => Yazı Tipini Değiştirir.
+    font-size => Metin Boyutunu Değiştirir.
+    text-align => Metnin Sitedeki Yerini Belirler.
+    color => Yazının Rengini Değiştirir.
+    -->
+    <p style="background-color: aqua">Lorem ipsum dolor sit amet.</p>
+    <p style="font-family: fantasy">Lorem ipsum dolor sit amet.</p>
+    <p style="font-size: 20px">Lorem ipsum dolor sit amet.</p>
+    <p style="text-align: center">Lorem ipsum dolor sit amet.</p>
+    <p style="color: darkviolet">Lorem ipsum dolor sit amet.</p>
+
+    <!-- BİÇİMLENDİRME ETİKETLERİ -->
+    <b>Yazının Kalın olmasını sağlar.</b><br>
+    <strong>Önemli metin .</strong><br>
+    <i>İtalic metin.</i><br>
+    <em>Vurgulanan metin.</em><br>
+    <mark>İşaretli metin.</mark><br>
+    <small>Küçük metin.</small><br>
+    <del>Metnin üzerini çizme.</del><br>
+    <ins>Metinin altını çizme.</ins><br>
+    <p>Merhaba<sub>Alt simge metni</sub></p>
+    <p>Merhaba<sup>Üst simge metni</sup></p>
+
+    <!-- ALINTI VE ALINTI ELEMANLARI -->
+    <!--
+    <blcokquote></blockquote> => Farklı Kaynaktan Alınan Bölümün Tamamını Tanımlar.
+    <q></q> => Kısa Alıntı Cümleleri İçin Kullanılır.
+    <abbr></abbr> => Kısaltmalar İçin Kullanılır. Abbr Etiketinin İçerisindeki 'title' Etiketi, Mouse İle Kısaltmanın Üzerine Geldiğinizde Açıklama Metni Gösterir.
+    <address></address> => Bir Belgenin Veya Makalenin Yazarının/Sahibinin İletişim Bilgilerini Tanımlamak İçin Kullanılır.
+    <cite></cite> => Metin İçerisinde Herhangi Bir Kitabın Veya Makalenin Başlığını Tanımlamakta Kullanılır.
+    <bdo></bdo> => Metnin Yönünü Değiştirmek İçin Kullanılır. (Sağdan Sola- Soldan Sağa)
+    -->
+    <p>Here is a quote from WWF's website:</p>
+    <blockquote cite="http://www.worldwildlife.org/who/index.html">
+        For 60 years, WWF has worked to help people and nature thrive. As the world's leading conservation organization, WWF works in nearly 100 countries. At every level, we collaborate with people around the world to develop and deliver innovative solutions that protect communities, wildlife, and the places in which they live.
+    </blockquote>
+    <p>Fırat Üniversitesi<q>Yazılım Mühendisliği</q>Bölümü</p>
+    <p>The <abbr title="Fırat Üniversitesi">FÜ</abbr> 1975 yılında kuruldu.</p>
+    <address>
+        Written by John Doe.<br>
+        Visit us at:<br>
+        Example.com<br>
+        Box 564, Disneyland<br>
+        USA
+    </address>
+    <p><cite>The Scream</cite> by Edvard Munch. Painted in 1893.</p>
+    <bdo dir="rtl">This text will be written from right to left</bdo><br>
+
+    <!-- RENKLER -->
+    <a href="https://www.w3schools.com/colors/colors_picker.asp" style="text-decoration: none">Renk Dökümanına Buradan Ulaşabilirsiniz</a><br>
+
+    <!-- BAĞLANTILAR - KÖRPÜLER -->
+    <!--
+    <a></a> => Link Tanımlamak İçin Kullanılır.
+    
+    'target' Bağlantılı Belgenin Nerede Açılacağını Belirtir.
+    '_self' Varsayılandır. Belgeyi Tıklandığı Pencerede/Sekmede Açar.
+    '_blank' Belgeyi Yeni Bir Pencerede Veya Sekmede Açar.
+    '_parent' Belgeyi Üst Çerçevede Açar.
+    '-top' Belgeyi Pencerenin Tam Ortasında Açar.
+    
+    <img> => Genellikle Bilgisayar da Kayıtlı Olan Resim,Video,GIF Gibi Dosyaları Açar.
+    
+    'mailto:info@gmail.com' => Bu Link İle Doğrudan Bilgisayarınızda Varsayılan Olarak Tanımlanmış Mail Programına Yönlendiriliyorsunuz Ve Mail Sahibe Bir Mail Oluşturuyorsunuz.
+    
+    Not: Ayrıca Linkler Kısmında Sadece İnternet Adresine Yönlendirme Yapılmıyor. Bilgisayarınızdaki Dosyaların Saklandığı Yerin Adresini De Girerseniz O Dosyaları da Açabilirsiniz.
+    -->
+    <a href="https://www.google.com.tr/">Google</a><br>
+    <img src="Resim Linki" alt="Resmin İsmi" style="Boyutları(width,height gibi)"><br>
+    <a href="mailto:yusufaytas642@gmail.com">Send E-Mail</a><br>
+
+    <!-- TABLOLAR -->
+    <!--
+    'td' => Tabo Verileri Anlamına Gelir.
+    'tr' => Tablo Satırı Anlamına Gelir.
+    'th' => Tablo Başlığı Anlamına Gelir.
+    'border' => Kenar Kalınlığını İfade Eder.
+    'width' ve 'height' => Yine Boyut Düzenlemesi Yapıyor.
+    'text-align:....' => Yazıların Tablo İçerisindeki Yerini Belirtir.
+    'colspan' ve 'rowspan' => Tablo Satır ve Sütunları Birleştirmek İçin Kullanılır.
+    'caption' => Tabloya Resim Yazısı Eklemek İçin Kullanılır.
+    'visibility: collapse' => Sütunları Gizlemek İçin Kullanılır.
+    
+    Not: Tablolar İle İlgili Çok Farklı Durumlar Yapabiliriz. Fakat Bunun İçin CSS Bilmemiz Gerekiyor.
+    -->
+
+    <table border="5">
+        <tr>
+            <th>Company</th>
+            <th>Contact</th>
+            <th>Country</th>
+        </tr>
+        <tr>
+            <td>Alfreds Futterkiste</td>
+            <td>Maria Anders</td>
+            <td>Germany</td>
+        </tr>
+    </table><br>
+
+    <table border="0">
+        <tr>
+            <th>Company</th>
+            <th>Contact</th>
+            <th>Country</th>
+        </tr>
+        <tr>
+            <td>Alfreds Futterkiste</td>
+            <td>Maria Anders</td>
+            <td>Germany</td>
+        </tr>
+    </table><br>
+
+    <table border="2">
+        <tr style="text-align: center">
+            <th style="width: 40% height=" 100px"">Company</th>
+            <th style="width: 40%">Contact</th>
+            <th style="width: 50%">Country</th>
+        </tr>
+        <tr>
+            <td>Alfreds Futterkiste</td>
+            <td>Maria Anders</td>
+            <td>Germany</td>
+        </tr>
+        <tr>
+            <td>Alfreds Futterkiste</td>
+            <td>Maria Anders</td>
+            <td>Germany</td>
+        </tr>
+        <tr>
+            <td>Alfreds Futterkiste</td>
+            <td>Maria Anders</td>
+            <td>Germany</td>
+        </tr>
+    </table>
+
+    <!-- LİSTELER -->
+    <!-- 
+    'ul' => Sırasız, (Madde İşaretli) Bir Liste Tanımlar.
+    'li' => Her Liste Ögesi Bu Etiketle Başlar.
+    'ol' => Sıralı Liste Tiplerinde Kullanılır.
+    'dl' => Açıklama Listesini Tanımlar.
+    'dt' => Terimi (Adı) Tanımlar.
+    'dd' => Her Terimi Açıklar.
+    
+    Sırasız Listeler İçin:
+    'list-style-type' => Bu Özellik Listenin Stilini Tanımlamak İçin Kullanılır.
+    *disc => Disk
+    *circle => Daire
+    *square => Kare
+    *none => Yok
+    
+    Sıralı Listeler İçin:
+    'list-style-type' => Bu Özellik Sıralı Listelerin Stillerini Değiştirmek İçin Kullanılır.
+    *type="1" => Sayılar
+    *type="A" => Büyük Harfler
+    *type="a" => Küçük Harfler
+    *type="I" => Büyük Roma Rakamları
+    *type="İ" => Küçük Roma Rakamları
+    
+    Not-1: Varsayılan olarak, sıralı bir liste 1'den saymaya başlar. Belirli bir sayıdan itibaren saymaya başlamak istiyorsanız 'start' özelliğini kullanabilirsiniz:
+    
+    Not-2: Bir Liste Ögesi (<li>) Yeni Bir Liste Ve Resimler Ve Bağlantılar Gibi Diğer HTML Öğelerini İçerebilir.
+    
+    Not-3: Listelerde Çok Farklı İşlemler Yapılabilir Fakat Bunun İçin CSS Bilgisi Gerekli.
+    -->
+    <ul>
+        <li>Coffee</li>
+        <li>Tea</li>
+        <li>Milk</li>
+    </ul>
+
+    <dl>
+        <dt>Coffee</dt>
+        <dd>- black hot drink</dd>
+        <dt>Milk</dt>
+        <dd>- white cold drink</dd>
+    </dl>
+
+    <ol type="1">
+        <li>Coffee</li>
+        <li>Tea</li>
+        <li>Milk</li>
+    </ol>
+    <ol type="A">
+        <li>Coffee</li>
+        <li>Tea</li>
+        <li>Milk</li>
+    </ol>
+    <ol type="a">
+        <li>Coffee</li>
+        <li>Tea</li>
+        <li>Milk</li>
+    </ol>
+    <ol type="I">
+        <li>Coffee</li>
+        <li>Tea</li>
+        <li>Milk</li>
+    </ol>
+    <ol type="i">
+        <li>Coffee</li>
+        <li>Tea</li>
+        <li>Milk</li>
+    </ol>
+
+    <ol start="50">
+        <li>Coffee</li>
+        <li>Tea</li>
+        <li>Milk</li>
+    </ol>
+
+
+
+
+</body>
+
+</html>
