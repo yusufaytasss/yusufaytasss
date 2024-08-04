@@ -32,9 +32,9 @@
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" />][mssql]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg" />][mysql]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />][git]
-[<img align="left" height="45" width="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnoirCtiJhhN8Tvo0FJRRd4CInsOXkRX9EbA&s" />][vscode]
+[<img align="left" height="45" width="45" src="https://w7.pngwing.com/pngs/284/106/png-transparent-visual-studio-code-logo.png" />][vscode]
 [<img align="left" height="45" width="45" src="https://miro.medium.com/v2/resize:fit:1400/1*rCK7fhfY9jb-osA77oaOAQ.png" />][webstrom]
-[<img align="left" height="45" width="45" src="https://pbs.twimg.com/profile_images/923214541290221569/dCMZxkwz_400x400.jpg" />][codepen]
+[<img align="left" height="45" width="45" src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Black-Large.png" />][codepen]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />][intellij]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" />][vstudio]
 <br />
@@ -61,6 +61,7 @@
 [c#]: https://learn.microsoft.com/en-us/dotnet/csharp/
 [vscode]: https://code.visualstudio.com/
 [webstrom]: https://www.jetbrains.com/webstorm/
+[codepen]: https://codepen.io/
 [git]: https://git-scm.com/
 [github]: https://github.com/yusufaytasss
 [C]: https://en.cppreference.com/w/
