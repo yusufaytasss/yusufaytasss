@@ -22,7 +22,7 @@
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" />][html5]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />][css3]
 [<img align="left" height="45" width="45" src="https://cdn.freebiesupply.com/logos/large/2x/sass-1-logo-png-transparent.png" />][sass]
-[<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" />][bootstrap]
+[<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.png" />][bootstrap]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />][javascript]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />][nodejs]
 [<img align="left" height="45" width="45" src="https://miro.medium.com/v2/resize:fit:860/0*eFomJUFua8tuqe8g.png" />][jquery]
