@@ -34,7 +34,7 @@
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />][git]
 [<img align="left" height="45" width="45" src="https://w7.pngwing.com/pngs/284/106/png-transparent-visual-studio-code-logo.png" />][vscode]
 [<img align="left" height="45" width="45" src="https://miro.medium.com/v2/resize:fit:1400/1*rCK7fhfY9jb-osA77oaOAQ.png" />][webstrom]
-[<img align="left" height="45" width="45" src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Black-Large.png" />][codepen]
+[<img align="left" height="45" width="45" src="https://seeklogo.com/images/C/codepen-logo-FDEB3664F1-seeklogo.com.png" />][codepen]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />][intellij]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" />][vstudio]
 <br />
