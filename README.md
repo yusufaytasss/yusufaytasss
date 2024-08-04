@@ -3,7 +3,7 @@
 
 ## ⏲ What am i doing now:
 - 🔭 I am currently developing myself towards becoming full stack. I am also interested in cyber security as a hobby. 👩‍💻
-- 👋 Fact: I love to search and learn new informations 🚀</h3>
+- 👋 Fact: I love to search and learn new informations  🚀</h3>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=your-github-yusufaytasss&style=plastic)
