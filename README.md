@@ -20,7 +20,7 @@
 ### 💻 Languages and Tools (Learning and Using): 
 
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" />][html5]
-[<img align="left" height="45" width="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO5ryTY9VShCV5uJWhoBXkcxxlFB8O5bbxGA&s" />][css3]
+[<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />][css3]
 [<img align="left" height="45" width="45" src="https://cdn.freebiesupply.com/logos/large/2x/sass-1-logo-png-transparent.png" />][sass]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" />][bootstrap]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />][javascript]
