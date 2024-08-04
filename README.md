@@ -25,7 +25,7 @@
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" />][bootstrap]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />][javascript]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />][nodejs]
-[<img align="left" height="45" width="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKsd0Zaf-op7igORFYaXdIL-TcTp6mIfQGfQ&s" />][jquery]
+[<img align="left" height="45" width="45" src="https://miro.medium.com/v2/resize:fit:860/0*eFomJUFua8tuqe8g.png" />][jquery]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" />][typescript]
 [<img align="left" height="45" width="45" src="https://w7.pngwing.com/pngs/929/60/png-transparent-net-framework-c-net-core-software-framework-mono-studio-purple-studio-violet-thumbnail.png" />][c#]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/tr/2/2e/Java_Logo.svg" />][java]
