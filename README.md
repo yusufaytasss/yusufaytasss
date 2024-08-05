@@ -32,7 +32,7 @@
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" />][mssql]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg" />][mysql]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />][git]
-[<img align="left" height="45" width="45" src="https://e7.pngegg.com/pngimages/100/690/png-clipart-visual-studio-code-microsoft-visual-studio-source-code-text-editor-microsoft-blue-angle-thumbnail.png" />][vscode]
+[<img align="left" height="45" width="45" src="https://e7.pngegg.com/pngimages/195/304/png-clipart-visual-studio-code-logo-thumbnail-tech-companies.png" />][vscode]
 [<img align="left" height="45" width="45" src="https://miro.medium.com/v2/resize:fit:1400/1*rCK7fhfY9jb-osA77oaOAQ.png" />][webstrom]
 [<img align="left" height="45" width="45" src="https://seeklogo.com/images/C/codepen-logo-FDEB3664F1-seeklogo.com.png" />][codepen]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />][intellij]
