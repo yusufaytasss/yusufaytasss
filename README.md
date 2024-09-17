@@ -12,8 +12,8 @@
 [<img align="left" height="24" width="24" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail]
 [<img align="left" height="24" width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/2175px-W3Schools_logo.svg.png" />][w3schools]
 [<img align="left" height="24" width="24" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />][stackoverflow]
-[<img align="left" height="24" width="24" src="https://developers.google.com/static/site-assets/images/home/developers-social-media.png" />][googlefordevelopers]
-[<img align="left" height="24" width="24" src="https://devnot.com/wp-content/uploads/2022/06/huawei-hsd.png" />][huaweistudentdevelopers]
+[<img align="left" height="24" width="24" src="https://i.pinimg.com/originals/33/32/db/3332db2e45a36222e63ad99da6513cbc.png" />][googlefordevelopers]
+[<img align="left" height="24" width="24" src="https://softwarecampus.de/wp-content/uploads/Huawei-logo.webp" />][huaweistudentdevelopers]
 <br />
 </a>
 
